@@ -2,8 +2,6 @@
 
 **Samiya Mokhles Rahman**
 
-**University ID:** 4062716
-
 **Report:** `Report_Samiya Mokhles Rahman.pdf` (submitted alongside this code)
 
 This is the code submission for the report comparing monolingual and
